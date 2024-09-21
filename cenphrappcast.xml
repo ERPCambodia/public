@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <!-- A release testing minimumSystemVersion -->
     <item>
         <title>Version 0.0.9</title>
         <sparkle:version>0.0.9</sparkle:version>
         <description>Minor updates and improvements.</description>
-<!--         <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate> -->
-<!--         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="4.0" sparkle:os="iOS" /> -->
-<!--         <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion> -->
     </item>
-    <!-- A release testing maximumSystemVersion -->
     <item>
         <title>Version 1.0.0</title>
         <sparkle:version>1.0.0</sparkle:version>
         <description>1.0.0 Description</description>
         <enclosure url="https://play.google.com/store/apps/details?id=kh.com.erpcambodia.cenphr" sparkle:version="1.0.0" sparkle:os="android" />
-<!--         <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion> -->
     </item>
-    
-    <!-- A release testing maximumSystemVersion -->
     <item>
         <title>Version 1.0.1</title>
         <sparkle:version>1.0.1</sparkle:version>
         <description>1.0.1 Description</description>
-        <enclosure url="https://play.google.com/store/apps/details?id=kh.com.erpcambodia.cenphr" sparkle:version="1.0.0" sparkle:os="android" />
-<!--         <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion> -->
+        <enclosure url="https://play.google.com/store/apps/details?id=kh.com.erpcambodia.cenphr" sparkle:version="1.0.1" sparkle:os="android" />
     </item>
   </channel>
 </rss>
