@@ -15,7 +15,13 @@
     <item>
         <title>Version 1.0.1</title>
         <sparkle:version>1.0.1</sparkle:version>
-        <description>1.0.1 Description</description>
+<!--         Release notes -->
+        <description>
+          • Seamless QR Code Sharing. Easily share QR code images directly to the app—no need to save them to your gallery anymore
+          • Effortlessly switch payment currencies when scanning KHQR to pay
+          at any merchant
+          • Bug fixes and UI enhancements
+        </description>
         <enclosure url="https://play.google.com/store/apps/details?id=kh.com.erpcambodia.cenphr" sparkle:version="1.0.1" sparkle:os="android" />
     </item>
   </channel>
