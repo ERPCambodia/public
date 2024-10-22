@@ -19,5 +19,13 @@
         <description>Bug fixed and improvement.</description>
         <enclosure url="https://play.google.com/store/apps/details?id=kh.com.erpcambodia.cenphr" sparkle:version="1.0.1" sparkle:os="android" />
     </item>
+    
+    <item>
+        <title>Version 1.0.2</title>
+        <sparkle:version>1.0.2</sparkle:version>
+<!--         Release notes -->
+        <description>Bug fixed and improvement.</description>
+        <enclosure url="https://play.google.com/store/apps/details?id=kh.com.erpcambodia.cenphr" sparkle:version="1.0.2" sparkle:os="android" />
+    </item>
   </channel>
 </rss>
