@@ -30,5 +30,11 @@
         <description>Bug fixed.</description>
         <enclosure url="https://play.google.com/store/apps/details?id=kh.com.erpcambodia.cenphr" sparkle:version="1.0.3" sparkle:os="android" />
     </item>
+    <item>
+        <title>Version 1.0.10</title>
+        <sparkle:version>1.0.10</sparkle:version>
+        <description>Bug fixed.</description>
+        <enclosure url="https://play.google.com/store/apps/details?id=kh.com.erpcambodia.cenphr" sparkle:version="1.0.10" sparkle:os="android" />
+    </item>
   </channel>
 </rss>
